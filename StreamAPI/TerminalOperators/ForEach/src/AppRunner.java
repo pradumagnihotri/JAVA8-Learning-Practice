@@ -9,8 +9,5 @@ public class AppRunner {
 
         names.stream()
                 .forEach(name -> System.out.println("Name: "+name));
-
-
-
     }
 }

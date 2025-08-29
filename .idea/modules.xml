@@ -18,7 +18,9 @@
       <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/SkipLearning/SkipLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/SkipLearning/SkipLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/SortedLearning/SortedLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/SortedLearning/SortedLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI-Problems/StreamAPI-Problems.iml" filepath="$PROJECT_DIR$/StreamAPI-Problems/StreamAPI-Problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamAPI/TerminalOperators/TerminalOperators.iml" filepath="$PROJECT_DIR$/StreamAPI/TerminalOperators/TerminalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/TerminalOperators/ToArray/ToArray.iml" filepath="$PROJECT_DIR$/StreamAPI/TerminalOperators/ToArray/ToArray.iml" />
     </modules>
   </component>
 </project>
