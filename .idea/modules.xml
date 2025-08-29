@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BiFunctionProbles/BiFunctionProbles.iml" filepath="$PROJECT_DIR$/BiFunctionProbles/BiFunctionProbles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/Collect/Collect.iml" filepath="$PROJECT_DIR$/StreamAPI/Collect/Collect.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConsumerProblems/ConsumerProblems.iml" filepath="$PROJECT_DIR$/ConsumerProblems/ConsumerProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamAPI/Filter/Filter.iml" filepath="$PROJECT_DIR$/StreamAPI/Filter/Filter.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionProblems/FunctionProblems.iml" filepath="$PROJECT_DIR$/FunctionProblems/FunctionProblems.iml" />
