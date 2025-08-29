@@ -3,17 +3,22 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BiFunctionProbles/BiFunctionProbles.iml" filepath="$PROJECT_DIR$/BiFunctionProbles/BiFunctionProbles.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StreamAPI/Collect/Collect.iml" filepath="$PROJECT_DIR$/StreamAPI/Collect/Collect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/TerminalOperators/Collect/Collect.iml" filepath="$PROJECT_DIR$/StreamAPI/TerminalOperators/Collect/Collect.iml" />
       <module fileurl="file://$PROJECT_DIR$/ConsumerProblems/ConsumerProblems.iml" filepath="$PROJECT_DIR$/ConsumerProblems/ConsumerProblems.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StreamAPI/Distinct/Distinct.iml" filepath="$PROJECT_DIR$/StreamAPI/Distinct/Distinct.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StreamAPI/Filter/Filter.iml" filepath="$PROJECT_DIR$/StreamAPI/Filter/Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/Distinct/Distinct.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/Distinct/Distinct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/Filter/Filter.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/Filter/Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/FlatMap/FlatMap.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/FlatMap/FlatMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/TerminalOperators/ForEach/ForEach.iml" filepath="$PROJECT_DIR$/StreamAPI/TerminalOperators/ForEach/ForEach.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionProblems/FunctionProblems.iml" filepath="$PROJECT_DIR$/FunctionProblems/FunctionProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/IntermediateOperators.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/IntermediateOperators.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java8.iml" filepath="$PROJECT_DIR$/Java8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StreamAPI/LimitLearning/LimitLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/LimitLearning/LimitLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StreamAPI/MapLearning/MapLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/MapLearning/MapLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StreamAPI/SkipLearning/SkipLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/SkipLearning/SkipLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/StreamAPI/SortedLearning/SortedLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/SortedLearning/SortedLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/LimitLearning/LimitLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/LimitLearning/LimitLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/MapLearning/MapLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/MapLearning/MapLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/PeekLearning/PeekLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/PeekLearning/PeekLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/SkipLearning/SkipLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/SkipLearning/SkipLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/IntermediateOperators/SortedLearning/SortedLearning.iml" filepath="$PROJECT_DIR$/StreamAPI/IntermediateOperators/SortedLearning/SortedLearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/StreamAPI/StreamAPI.iml" filepath="$PROJECT_DIR$/StreamAPI/StreamAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamAPI/TerminalOperators/TerminalOperators.iml" filepath="$PROJECT_DIR$/StreamAPI/TerminalOperators/TerminalOperators.iml" />
     </modules>
   </component>
 </project>

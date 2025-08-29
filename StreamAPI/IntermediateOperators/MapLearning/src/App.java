@@ -9,7 +9,9 @@ public class App {
 
 //        now implemented the logic of adding 10 in all numbers using the map()
 
-        numbers.stream().map(number-> number+=10).forEach(System.out::println);
+        numbers.stream()
+                .map(number-> number+=10)
+                .forEach(System.out::println);
 
     }
 }

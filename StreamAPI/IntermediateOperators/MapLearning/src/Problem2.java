@@ -8,6 +8,7 @@ public class Problem2 {
         List<String> names = Arrays.asList("Ramu","Shreya","Sohan","Shivang");
 
         names.stream()
-                .map(name -> name.length()).forEach(System.out::println);
+                .map(name -> name.length())
+                .forEach(System.out::println);
     }
 }

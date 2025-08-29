@@ -6,6 +6,8 @@ public class Problem1 {
 //        Let us create a list of string where we store the name
 
         List<String> names = Arrays.asList("Mohan","Naman","Sabita","Pransu");
-        names.stream().map(name -> name.toUpperCase()).forEach(System.out::println);
+        names.stream()
+                .map(name -> name.toUpperCase())
+                .forEach(System.out::println);
     }
 }
